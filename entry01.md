@@ -11,6 +11,10 @@ A few links that I have used or seen to explore are:
 
 -[What Is Industrial Design](idsa.org/about-idsa/advocacy/what-industrial-design/)
 
+-[Industrial Design Technology](citytech.catalog.cuny.edu/programs/DD-AAS/general-aoYks/)
+
+
+
 
 ## Engineering Design Process
 
