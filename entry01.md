@@ -1,6 +1,4 @@
 ## SEP 10 Freedom Project
-### Blog Examples
-
 ---
 
 # Entry 1: Deciding On My Topic (Industrial Designer)
@@ -11,8 +9,7 @@ The topic I decided on this project is Industrial Designer because I've been int
 
 ## Engineering Design Process
 
-
-## EDP
+I am currently in the first stage of the engineering design process, the main goal is to find the problem. In which to solve my project that to **people aren't informed about the world technology in industrial Designer.** So the next step is to research the problem and to plan by using articles, websites but also gaining my peers in what they think the issue could be and also about the situation could be to inform the people in the world.
 
 ## Skills
 
