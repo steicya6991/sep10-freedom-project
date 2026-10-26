@@ -7,13 +7,7 @@
 ## Choosing a topic
 The topic I decided on this project is Industrial Designer because I've been interested in doing a working job that involves designing or creating something. Since I was young I have always liked creating something physical or something on the computer. Before I was considered making this project about something with an engineer, architectural drafter, manufacturing process technician because each one involves in which it has to with designing or helping towards the community but then out of all I chose Industrial Designer. Industrial Designer helps in creating things that can help others,but also making something fun and amazing.
 
-A few links that I have used or seen to explore are:
-
--[What Is Industrial Design](idsa.org/about-idsa/advocacy/what-industrial-design/)
-
--[Industrial Design Technology](citytech.catalog.cuny.edu/programs/DD-AAS/general-aoYks/)
-
-
+A few links that I have used or seen to explore are [What Is Industrial Design](idsa.org/about-idsa/advocacy/what-industrial-design/),[Industrial Design Technology](citytech.catalog.cuny.edu/programs/DD-AAS/general-aoYks/),[What Software Tools are Commonly used In Industrial Design](idc.uk.com/news/2025/what-software-tools-are-commonly-used-in-industrial-design-/). Which these links have helped me to find what Industrial Design is. What tools or how technology is used in the. Also, how is it impacted towards the world.
 
 
 ## Engineering Design Process
