@@ -7,9 +7,14 @@
 ## Choosing a topic
 The topic I decided on this project is Industrial Designer because I've been interested in doing a working job that involves designing or creating something. Since I was young I have always liked creating something physical or something on the computer. Before I was considered making this project about something with an engineer, architectural drafter, manufacturing process technician because each one involves in which it has to with designing or helping towards the community but then out of all I chose Industrial Designer. Industrial Designer helps in creating things that can help others,but also making something fun and amazing.
 
+A few links that I have used or seen to explore are:
+
+-[Industrial Designers: Occupational Outlook Handbook](bls.gov/ooh/arts-and-design/industrial-designers.htm/)
+
+
 ## Engineering Design Process
 
-I am on the first step and towards the second step of the project. Which at first we had to find something that we were passionate about. Then we had to do more research in what we are more passionate about about the technology that is already used in the career. Some technologies that are used in this career are " 3D Modeling, CAD(computer aided design), prototyping hardware" but I would still be in step two to find out more in what to inform people that will get their attention but also finding more in technology that is used or how is used.
+I am on the first step and towards the second step of the project. Which at first we had to find something that we were passionate about. Then we had to do more research in what we are more passionate about about the technology that is already used in the career. Some technologies that are used in this career are " 3D Modeling, CAD(computer aided design), prototyping hardware" but I would still be in step two to find out more in what to **inform people** that will get their attention but also finding more in technology that is used or how is used.
 
 ## Skills
 
