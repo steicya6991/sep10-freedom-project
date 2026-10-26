@@ -20,7 +20,9 @@ One skill that I have gained is ** How to Google.** I am saying this skill becau
 
 I would say another skill would be time management that I have a lot of commitments of outside of school, like taking care of my dog, doing homework. During the whole week, there are certain days where my brother has a soccer practice or a game which is like two hours long. So I have been doing home work much early, and I can do all my work that I have to do in one day but I think this will change more in having a certain days to do some work than others. 
 
+## Summary
 
+Overall, I am excited in making this website to inform people what the technology is doing toward Industrial Design that will led to in the future. Also, can help in being sure if I would have a future career in the Industrial designer.
 
 [Next](entry02.md)
 
