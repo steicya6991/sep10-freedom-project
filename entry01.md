@@ -9,7 +9,7 @@ The topic I decided on this project is Industrial Designer because I've been int
 
 A few links that I have used or seen to explore are:
 
--[Industrial Designers: Occupational Outlook Handbook](bls.gov/ooh/arts-and-design/industrial-designers.htm/)
+-[](idsa.org/about-idsa/advocacy/what-industrial-design/)
 
 
 ## Engineering Design Process
