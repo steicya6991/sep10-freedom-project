@@ -9,7 +9,7 @@ The topic I decided on this project is Industrial Designer because I've been int
 
 A few links that I have used or seen to explore are:
 
--[](idsa.org/about-idsa/advocacy/what-industrial-design/)
+-[What Is Industrial Design](idsa.org/about-idsa/advocacy/what-industrial-design/)
 
 
 ## Engineering Design Process
