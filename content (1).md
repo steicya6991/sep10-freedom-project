@@ -5,7 +5,7 @@ Topic: **Industrial Designer**
 * Designs the form, function, and user experience of physical products — from consumer electronics to furniture to medical tools.
 * Study target users, market trends, and product needs before sketching.
 ## Part A: existing technology
-I searched for apps for the Industrial Designer and some were blocked then kept looking for apps that were designing 3d. I couldn't find much so I used YouTube to find and at first there was nothing to then show up apps that Industrial designers would use.
+I searched for apps for the Industrial Designer and some were blocked then kept looking for apps that were designing 3D. I couldn't find much so I used YouTube to find and at first there was nothing to then show up apps that Industrial designers would use(not sure if it counts).
 # Software
 Designers use AI tools to make thousands of product shapes in minutes.
 - This helps to reduce the waste in making 3D models come to life.
