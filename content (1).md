@@ -4,16 +4,14 @@ Topic: **Industrial Designer**
 ## Overview/Introduction/Context
 * Designs the form, function, and user experience of physical products — from consumer electronics to furniture to medical tools.
 * Study target users, market trends, and product needs before sketching.
-
-
 ## Part A: existing technology
 
-##### Software
+## Software
 * Tech
   * Detail
   * [image text](image URL)
 
-##### Hardware
+## Hardware
 * Tech
   * Detail
   * [image text](image URL)
