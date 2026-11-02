@@ -12,9 +12,19 @@ Designers use AI tools to make thousands of product shapes in minutes.
 - 3D Modeling and CAD(computer aided design)
 - Prototyping Hardware, Engineering, and AI Tools 
 
-* The first website is :[https://adam3d.com.au/]
-  * Detail
-  * [image text](image URL)
+* The first website is : Adam 3D
+  [https://adam3d.com.au/]
+  * Is an AI powered CAD tool.
+     - It includes geometries and part of AI
+  * It uses 3D 
+
+
+* The second website is: Vizcom.com
+  [https://vizcom.com/]
+
+
+* The third website is: Vectary
+[https://www.vectary.com/canvas/]
 
 # Hardware
 * Tech
