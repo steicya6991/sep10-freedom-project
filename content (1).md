@@ -26,7 +26,8 @@ Designers use AI tools to make thousands of product shapes in minutes.
   - It also opens file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 
 * The second website is: Fusion
-  [https://www.autodesk.com/products/fusion-360/overview]
+
+[ https://www.autodesk.com/products/fusion-360/overview ]
   * There are many professionals like:
     -Toyota, Yamaha, etc.
   * There are examples of what to link to.
