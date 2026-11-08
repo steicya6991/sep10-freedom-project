@@ -27,7 +27,7 @@ Designers use AI tools to make thousands of product shapes in minutes.
 
 * The second website is: Fusion
 
-[ https://www.autodesk.com/products/fusion-360/overview ]
+ .[https://www.autodesk.com/products/fusion-360/overview ]
   * There are many professionals like:
     -Toyota, Yamaha, etc.
   * There are examples of what to link to.
@@ -77,9 +77,9 @@ Here are some of what the app has:
 
 *CNC Milling Machine
 
- .[https://cst.princeton.edu/studiolab/equipment/cnc-milling] 
+ [](https://cst.princeton.edu/studiolab/equipment/cnc-milling)
  
- .[https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in]
+ (https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in)
   
   * CNC Milling machine is an equipment that allows the machining of parts by removing the blocks of materials.
   * The materials that can be processed into pieces are metal,plastic,wood, etc.
