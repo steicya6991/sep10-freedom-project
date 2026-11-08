@@ -19,8 +19,9 @@ Designers use AI tools to make thousands of product shapes in minutes.
 * Shape can be based on properties such as numeric values, texts, on/off buttons, or even other objects.
    -  3D modeler to design real-life objects of any size
    -  To sketch geometry constrained 2D shapes
-   (image URL)
    -  To be able to adjust the design details
+  <img width="508" height="320" alt="Screenshot 2026-11-08 2 16 22 PM" src="https://github.com/user-attachments/assets/fc64430b-2241-4a64-84f2-d804f494b90f" />
+)
 * multiplatform (Windows, Mac and Linux)
   - It also opens file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others. to the work flow
   (image URL)
