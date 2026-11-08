@@ -52,7 +52,8 @@ Here are some of what the app has:
 # Hardware
 
 * Laser cutter machine
- .[https://all3dp.com/2/what-is-a-laser-cutter-simply-explained/#i-9-software]
+[All3DP](https://all3dp.com/2/what-is-a-laser-cutter-simply-explained/#i-9-software)
+ 
  * The laser cutter is a machine capable of cutting and engraving with great precision on different types of materials:
     -Wood, plastic, cardboard, or fabric.
  * It's wildly used in models, puzzles, lettering, decorative cards, etc.
@@ -75,11 +76,10 @@ Here are some of what the app has:
 
 
 
-*CNC Milling Machine
+* CNC Milling Machine
 
- [Fab Manager](https://cst.princeton.edu/studiolab/equipment/cnc-milling)
- 
-[ ](https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in)
+- [Center On Science and Technology](https://cst.princeton.edu/studiolab/equipment/cnc-milling)
+- [Fab Manager](https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in)
   
   * CNC Milling machine is an equipment that allows the machining of parts by removing the blocks of materials.
   * The materials that can be processed into pieces are metal,plastic,wood, etc.
