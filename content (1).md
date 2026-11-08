@@ -49,10 +49,17 @@ Here are some of what the app has:
  * Drafting 
 
 # Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
 
+* Laser cutter machine
+  * Detail
+  * ;/
+ 
+<img width="250" height="228" alt="Screenshot 2026-11-08 3 25 20 PM" src="https://github.com/user-attachments/assets/5884061f-e07e-4884-90ef-5b88b299fa14" />
+* Vinyl Cutter machine
+  <img width="170" height="167" alt="Screenshot 2026-11-08 3 26 06 PM" src="https://github.com/user-attachments/assets/c966b89a-be39-44cf-b81b-dfdc1e3341ab" /> 
+
+*CNC Milling Machine
+ 
 ## Part B: possible future technology
 * Idea
   * Detail
