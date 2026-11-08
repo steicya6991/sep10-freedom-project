@@ -23,8 +23,7 @@ Designers use AI tools to make thousands of product shapes in minutes.
   <img width="508" height="320" alt="Screenshot 2026-11-08 2 16 22 PM" src="https://github.com/user-attachments/assets/fc64430b-2241-4a64-84f2-d804f494b90f" />
 )
 * multiplatform (Windows, Mac and Linux)
-  - It also opens file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others. to the work flow
-  (image URL)
+  - It also opens file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 
 * The second website is: Fusion
   [https://www.autodesk.com/products/fusion-360/overview]
