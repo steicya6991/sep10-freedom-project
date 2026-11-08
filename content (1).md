@@ -79,7 +79,7 @@ Here are some of what the app has:
 
  [Fab Manager](https://cst.princeton.edu/studiolab/equipment/cnc-milling)
  
- (https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in)
+[ ](https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in)
   
   * CNC Milling machine is an equipment that allows the machining of parts by removing the blocks of materials.
   * The materials that can be processed into pieces are metal,plastic,wood, etc.
@@ -88,7 +88,7 @@ Here are some of what the app has:
      - CAD(Computer-Aided Design)
      - CAM(Computer-Aided Manufacturing)
      - CNC control software
- 
+
  
  <img width="279" height="287" alt="Screenshot 2026-11-08 3 27 24 PM" src="https://github.com/user-attachments/assets/c8d559cf-ffe3-4b26-a92d-d79a710120c9" />
 
