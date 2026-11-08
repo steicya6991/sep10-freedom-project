@@ -14,8 +14,7 @@ Designers use AI tools to make thousands of product shapes in minutes.
 - 3D Modeling and CAD(computer aided design)
 - Prototyping Hardware, Engineering, and AI Tools 
 
-* The first website is : Freecad.org
-[https://www.freecad.org/]
+* The first website is : [Freecad.org](https://www.freecad.org/)
 * Shape can be based on properties such as numeric values, texts, on/off buttons, or even other objects.
    -  3D modeler to design real-life objects of any size
    -  To sketch geometry constrained 2D shapes
@@ -25,9 +24,7 @@ Designers use AI tools to make thousands of product shapes in minutes.
 * multiplatform (Windows, Mac and Linux)
   - It also opens file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 
-* The second website is: Fusion
-
- .[https://www.autodesk.com/products/fusion-360/overview ]
+* The second website is: [Fusion](https://www.autodesk.com/products/fusion-360/overview )
   * There are many professionals like:
     -Toyota, Yamaha, etc.
   * There are examples of what to link to.
@@ -36,8 +33,7 @@ Designers use AI tools to make thousands of product shapes in minutes.
  - It has videos to be able to explore how to design.
 
 
-* The third website is: Rhino
-[https://www.rhino3d.com/]
+* The third website is: [Rhino](https://www.rhino3d.com/)
 
 There are many tools that can be used when designing.
 Here are some of what the app has: 
@@ -52,10 +48,11 @@ Here are some of what the app has:
 # Hardware
 
 * Laser cutter machine
+
 [All3DP](https://all3dp.com/2/what-is-a-laser-cutter-simply-explained/#i-9-software)
  
  * The laser cutter is a machine capable of cutting and engraving with great precision on different types of materials:
-    -Wood, plastic, cardboard, or fabric.
+    - Wood, plastic, cardboard, or fabric.
  * It's wildly used in models, puzzles, lettering, decorative cards, etc.
  * There are three different type of Laser cutters:
    - Fiber
@@ -66,15 +63,6 @@ Here are some of what the app has:
    - Control software that handles the machine and the commands it needs to do to get the job done.
  
 <img width="250" height="228" alt="Screenshot 2026-11-08 3 25 20 PM" src="https://github.com/user-attachments/assets/5884061f-e07e-4884-90ef-5b88b299fa14" />
-
-
-* Vinyl Cutter machine
-
- 
-<img width="170" height="167" alt="Screenshot 2026-11-08 3 26 06 PM" src="https://github.com/user-attachments/assets/c966b89a-be39-44cf-b81b-dfdc1e3341ab" /> 
-
-
-
 
 * CNC Milling Machine
 
