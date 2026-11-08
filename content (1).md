@@ -51,8 +51,8 @@ Here are some of what the app has:
 # Hardware
 
 * Laser cutter machine
-  * Detail
-  * ;/
+  * 
+  * 
  
 <img width="250" height="228" alt="Screenshot 2026-11-08 3 25 20 PM" src="https://github.com/user-attachments/assets/5884061f-e07e-4884-90ef-5b88b299fa14" />
 
@@ -66,6 +66,16 @@ Here are some of what the app has:
 
 
 *CNC Milling Machine
+ [https://cst.princeton.edu/studiolab/equipment/cnc-milling] and [https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in]
+  
+  * CNC Milling machine is an equipment that allows the machining of parts by removing the blocks of materials.
+  * The materials that can be processed into pieces are metal,plastic,wood, etc.
+  * Some on CNC include drills,latches,mills and 3D printers.
+  * Three types of software:
+     - CAD(Computer-Aided Design)
+     - CAM(Computer-Aided Manufacturing)
+     - CNC control software
+ 
  
  <img width="279" height="287" alt="Screenshot 2026-11-08 3 27 24 PM" src="https://github.com/user-attachments/assets/c8d559cf-ffe3-4b26-a92d-d79a710120c9" />
 
