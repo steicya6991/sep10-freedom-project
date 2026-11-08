@@ -77,7 +77,7 @@ Here are some of what the app has:
 
 *CNC Milling Machine
 
- [](https://cst.princeton.edu/studiolab/equipment/cnc-milling)
+ [Fab Manager](https://cst.princeton.edu/studiolab/equipment/cnc-milling)
  
  (https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in)
   
