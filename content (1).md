@@ -20,7 +20,7 @@ Designers use AI tools to make thousands of product shapes in minutes.
    -  To sketch geometry constrained 2D shapes
    -  To be able to adjust the design details
   <img width="508" height="320" alt="Screenshot 2026-11-08 2 16 22 PM" src="https://github.com/user-attachments/assets/fc64430b-2241-4a64-84f2-d804f494b90f" />
-)
+
 * multiplatform (Windows, Mac and Linux)
   - It also opens file formats such as STEP, IGES, STL, SVG, DXF, OBJ, IFC, DAE and many others.
 
@@ -80,6 +80,15 @@ Here are some of what the app has:
  
  <img width="279" height="287" alt="Screenshot 2026-11-08 3 27 24 PM" src="https://github.com/user-attachments/assets/c8d559cf-ffe3-4b26-a92d-d79a710120c9" />
 
+* Rotary Evaporator
+  -[Asynt](https://www.asynt.com/blog/what-is-a-rotary-evaporator/#:~:text=Rotary%20evaporators%20(rotovaps)%20are%20devices,via%20the%20process%20of%20evaporation.)
+
+   *Rotary evaporators are devices employed for removing solvents efficiently via the process of evaporation.
+* Used for concentration, crystallization, drying, separation, and solvent recovery
+*  Rotary evaporators work on the principle that solvents have a range of boiling points, which decrease under reduced pressure.
+* Users can carry out solvent removal faster and more efficiently than evaporation under atmospheric pressure, thus saving time and increasing productivity in the laboratory. 
+
+<img <img width="553" height="432" alt="Screenshot 2026-11-12 9 44 00 PM" src="https://github.com/user-attachments/assets/7c3ffd3f-7b4d-4d66-9fd9-527547e1d0fe" />
 
 
 ## Part B: possible future technology
