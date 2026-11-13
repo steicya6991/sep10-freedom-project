@@ -88,7 +88,7 @@ Here are some of what the app has:
 *  Rotary evaporators work on the principle that solvents have a range of boiling points, which decrease under reduced pressure.
 * Users can carry out solvent removal faster and more efficiently than evaporation under atmospheric pressure, thus saving time and increasing productivity in the laboratory. 
 
-<img <img width="553" height="432" alt="Screenshot 2026-11-12 9 44 00 PM" src="https://github.com/user-attachments/assets/7c3ffd3f-7b4d-4d66-9fd9-527547e1d0fe" />
+ <img width="553" height="432" alt="Screenshot 2026-11-12 9 44 00 PM" src="https://github.com/user-attachments/assets/7c3ffd3f-7b4d-4d66-9fd9-527547e1d0fe" />
 
 
 ## Part B: possible future technology
