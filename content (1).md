@@ -62,7 +62,7 @@ Here are some of what the app has:
    - Design software is the tool design in wanting what the laser should cut.
    - Control software that handles the machine and the commands it needs to do to get the job done.
  
-<img width="250" height="228" alt="Screenshot 2026-11-08 3 25 20 PM" src="https://github.com/user-attachments/assets/5884061f-e07e-4884-90ef-5b88b299fa14" />
+ <img width="250" height="228" alt="Screenshot 2026-11-08 3 25 20 PM" src="https://github.com/user-attachments/assets/5884061f-e07e-4884-90ef-5b88b299fa14" />
 
 * CNC Milling Machine
 
