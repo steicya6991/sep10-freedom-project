@@ -22,21 +22,33 @@
   
 ##### With the information, I have found 3 apps that are:
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview )
-      * Information: Prototyping, offers tools, has videos if you are new
+      -Information: Prototyping, offers tools, has videos if you are new
 - [Freecad.org](https://www.freecad.org/)
-      * Information: Has properties, 3D modeler, 2D shapes
+      -Information: Has properties, 3D modeler, 2D shapes
 - [Rhino](https://www.rhino3d.com/)
-      * Information: Has model creation tools, editing tools
+      -Information: Has model creation tools, editing tools
 
-   At first, I wasn't able to find apps that aren't really known. So I kept researching any I landed with these three and like yes should I have found more which I would probably will have to do as I continue with the project. But for now it will be these 3 for now. Some information to know that the software are similar in ways and have their differences as well when going through the apps like it can be the tools that are included, for example 2D shapes, 3D shapes and how you're able to design to details.
+At first, I wasn't able to find apps that aren't really known. So I kept researching any I landed with these three and like yes should I have found more which I would probably will have to do as I continue with the project. But for now it will be these 3 for now. Some information to know that the software are similar in ways and have their differences as well when going through the apps like it can be the tools that are included, for example 2D shapes, 3D shapes and how you're able to design to details.
 
    On the second Monday in researching for now part A hardware, with the same goal in mind for hardware. What is a Hardware? Well the hardware is the physical device with computer parts like machines that can cut metal, tools that are surrounded towards those parts. I had also found 3 hardware with this information as well.
 
 ##### These are the 3 machines:
-  - Laser Cutter
-  - CNC Milling Machine
-  - Rotary Evaporator
+  - Laser Cutter- Design software is where the laser should cut and control software gives commands what job is needed
+  - CNC Milling Machine- allows machining of parts by removing the blocks of materials
+  - Rotary Evaporator- for removing solvents efficiently via the process of evaporation
 
+I was able to find machines that are used in prototyping. These tools can be used to create products that can be useful for industrial designers when creating objects for helping others. These machines are mostly found in workshops that if a person wants to create something, but don't have the tool they are able to go and create anything. But like the laser cutter, you are able to buy a mini version of the tool for home.
+
+   On the third Monday of the research, I had to synthesize part A so I had to think of categories for both the software and hardware in mixing both of the similar and differences between both. So then I had to make up some topic.
+
+###### Some categories I thought of were:
+ - The timeline in which each tool was created
+ - Which was more complex to learn
+ - Can the tool be in homes or not
+ - Which tool can be used to most
+ - What programs can the tools do
+
+I had to synthesize the 3 hardware and 3 software by a category that would make sense for both so I choose the timeline. I went based on what each app and machine was created. The category was between the 20s, then towards the late 90s and lastly was the beginning of the 90s. The 20s were Fusion and Freed.org. The late 90s were Rhino3d.com and laser cutter. The beginning of the 90s were CNC Milling Machine and Rotary Evaporator. Which was the most recent to the last.
 
 # Skills
 
