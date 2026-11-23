@@ -18,8 +18,9 @@
 
 # Engineering Design Process
 
-  The first thing that I had to do in the engineering process was find information about software and hardware. The goal was to find apps and hardware that a person would normally not know. On the first Monday in researching for part A of software. You might wonder what software is, well a software is a set of programs that can be used digitally on a computer or tablet, that you are able to design or create a new product. With the information, I have found 3 apps that are:
-
+  The first thing that I had to do in the engineering process was find information about software and hardware. The goal was to find apps and hardware that a person would normally not know. On the first Monday in researching for part A of software. You might wonder what software is, well a software is a set of programs that can be used digitally on a computer or tablet, that you are able to design or create a new product. 
+  
+##### With the information, I have found 3 apps that are:
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview )
 - [Freecad.org](https://www.freecad.org/)
 - [Rhino](https://www.rhino3d.com/)
