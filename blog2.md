@@ -22,8 +22,11 @@
   
 ##### With the information, I have found 3 apps that are:
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview )
+      * Information: Prototyping, offers tools, has videos if you are new
 - [Freecad.org](https://www.freecad.org/)
+      * Information: Has properties, 3D modeler, 2D shapes
 - [Rhino](https://www.rhino3d.com/)
+      * Information: Has model creation tools, editing tools
 
    At first, I wasn't able to find apps that aren't really known. So I kept researching any I landed with these three and like yes should I have found more which I would probably will have to do as I continue with the project. But for now it will be these 3 for now. Some information to know that the software are similar in ways and have their differences as well when going through the apps like it can be the tools that are included, for example 2D shapes, 3D shapes and how you're able to design to details.
 
