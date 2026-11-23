@@ -41,7 +41,7 @@ I was able to find machines that are used in prototyping. These tools can be use
 
    On the third Monday of the research, I had to synthesize part A so I had to think of categories for both the software and hardware in mixing both of the similar and differences between both. So then I had to make up some topic.
 
-###### Some categories I thought of were:
+ ###### Some categories I thought of were:
  - The timeline in which each tool was created
  - Which was more complex to learn
  - Can the tool be in homes or not
