@@ -28,7 +28,7 @@
 
    On the second Monday in researching for now part A hardware, with the same goal in mind for hardware. What is a Hardware? Well the hardware is the physical device with computer parts like machines that can cut metal, tools that are surrounded towards those parts. I had also found 3 hardware with this information as well.
 
-### These are the 3 machines:
+##### These are the 3 machines:
   - Laser Cutter
   - CNC Milling Machine
   - Rotary Evaporator
