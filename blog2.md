@@ -56,3 +56,8 @@ I had to synthesize the 3 hardware and 3 software by a category that would make 
 - A skill that I learned was dealing with the conflict because much of my research was not correct, or I wan't able to find much than I was expecting. Like if I was looking for the app, then it would like to give me a app that a person would use everyday but my goal is to find a apps that isn't much heard. Also, many of the apps were blocked to view in the computer so it cut my limit of research. It was the same thing as the hardware, if I found one of the hardware, I would also need to find information about the tools.
 
 - Another skill would be looking more deep into things because when like researching I was just going through what the app had or what the hardware had but then like I realized that I needed a bit more than that information. So I kept looking other and other finding the most important information to include in my research. 
+
+### Some Sources were:
+- [Center On Science and Technology](https://ctst.princeton.edu/studiolab/equipment/cnc-milling)
+- [Fab Manager](https://www.fab-manager.com/blog/news/the-digital-fabrication-tools-key-to-innovation-in)
+- [Asynt](https://www.asynt.com/blog/what-is-a-rotary-evaporator/#:~:text=Rotary%20evaporators%20(rotovaps)%20are%20devices,via%20the%20process%20of%20evaporation.)
